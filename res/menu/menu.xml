@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menulv1"
+        android:icon="@drawable/no1"
+        android:showAsAction="always"
+        android:title="Level 1"/>
+    <item
+        android:id="@+id/menulv2"
+        android:icon="@drawable/no2"
+        android:title="Level 2"/>
+    <item
+        android:id="@+id/menulv3"
+        android:icon="@drawable/no3"
+        android:title="Level 3"/>
+    <item
+        android:id="@+id/menulv4"
+        android:icon="@drawable/no4"
+        android:title="Level 4"/>
+
+</menu>
